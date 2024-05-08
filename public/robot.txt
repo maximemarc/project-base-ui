@@ -1,0 +1,2 @@
+User-agent: *
+disallow: /boulesdefeu/admin/

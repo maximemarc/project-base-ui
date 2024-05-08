@@ -1,0 +1,26 @@
+{
+  "name": "project title",
+  "short_name": "project",
+  "description": "project description",
+  "icons": [
+    {
+      "src": "/img/project.webp",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/img/project.webp",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "id": "/",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#003366",
+  "orientation": "portrait",
+  "lang": "fr",
+  "dir": "ltr"
+}
